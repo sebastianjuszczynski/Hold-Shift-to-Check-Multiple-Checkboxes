@@ -7,7 +7,6 @@ https://sebastianjuszczynski.github.io/Hold-Shift-to-Check-Multiple-Checkboxes/
 - HTML
 - CSS
 - JS
-- Canvas
 ### Description
 
 After You check first checkbox, please hold shift to check multiple checkboxes,.
